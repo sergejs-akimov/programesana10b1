@@ -1,4 +1,4 @@
 # programesana10b1
 mokos stradatj ar githab un progr
-text example:pro
+text example:professional
 5vsk
